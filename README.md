@@ -2,7 +2,7 @@ Daily learning log maintained as a structured journal. Each commit represents a 
 
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
-**Current:** Week 13
+**Current:** Week 14
 
 Week 1
 
@@ -422,6 +422,8 @@ June 24, 2026:
 June 25, 2026:
 - finished 40% of Prerequisites.
 
+Week 14
+
 June 26, 2026:
 - finished 60% of Prerequisites.
 - figuring out how to install Linux Ubuntu.
@@ -442,5 +444,12 @@ June 29, 2026:
 June 30, 2026:
 - finished 100% of HTML Foundations.
 - worked and finished 'Project: Recipes' for 1 hour.
-- published it live using Github and added a README.md
+- published it live using Github Pages and added a README.md
 - discovered &, < == &lt, > == &gt, & == &amp
+
+July 1, 2026:
+- finished 40% of CSS Foundations.
+- discovered *{}, div{}, <div>, class=, .class_name{}, multiple classes, id=, #id_name{}, grouping selector, chaining selector, descendant combinator, color:, background-color:, font-family:, font-size:, font-weight:, text-align:, height:, width:, <link>, stylesheet, <style>, style=, <button>, !important, pseudo-class
+
+July 2, 2026:
+- finished 60% of CSS Foundations.
