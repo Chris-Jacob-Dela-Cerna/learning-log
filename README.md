@@ -453,3 +453,7 @@ July 1, 2026:
 
 July 2, 2026:
 - finished 60% of CSS Foundations.
+
+July 3, 2026:
+- finished 80% of CSS Foundations.
+- discovered outline:, padding:, border:, margin:, (-top, -right, -bottom, -left), box-sizing:, content-box, border-box, display:, block, inline, flex, inline-flex, inline-block list-style:, <span>, float, position:, static, fixed
