@@ -439,7 +439,7 @@ June 28, 2026:
 
 June 29, 2026:
 - finished 80% of HTML Foundations.
-- discovered elements, tags, <>, </>, <p>, void elements, index.html, <!DOCTYPE html>, lang=, <head>, <meta>, <title>, <body, ><h1>-<h6>, <strong>, <em>, <!-- comment -->, <ul>, <li>, <ol>, <a>, href=, target=, _blank, _self, rel=, noopener, noreferrer, <img>, src=, alt=, height=, width=
+- discovered elements, tags, '<>', '</>', '<p>', void elements, index.html, '<!DOCTYPE html>', lang=, '<head>', '<meta>', '<title>', '<body, >''<h1>'-'<h6>', '<strong>', '<em>', '<!-- comment -->', '<ul>', '<li>', '<ol>', '<a>', href=, target=, _blank, _self, rel=, noopener, noreferrer, '<img>', src=, alt=, height=, width=
 
 June 30, 2026:
 - finished 100% of HTML Foundations.
@@ -449,17 +449,17 @@ June 30, 2026:
 
 July 1, 2026:
 - finished 40% of CSS Foundations.
-- discovered *{}, <div>, class=, .class_name{}, id=, #id_name{}, grouping selector, chaining selector, descendant combinator, color:, background-color:, font-family:, font-size:, font-weight:, text-align:, height:, width:, <link>, stylesheet, <style>, style=, <button>, !important, pseudo-class
+- discovered *{}, '<div>', class=, .class_name{}, id=, #id_name{}, grouping selector, chaining selector, descendant combinator, color:, background-color:, font-family:, font-size:, font-weight:, text-align:, height:, width:, '<link>', stylesheet, '<style>', style=, '<button>', !important, pseudo-class
 
 July 2, 2026:
 - finished 60% of CSS Foundations.
 
 July 3, 2026:
 - finished 80% of CSS Foundations.
-- discovered outline:, padding:, border:, margin:, (-top, -right, -bottom, -left), box-sizing:, content-box, border-box, display:, block, inline, flex, inline-flex, inline-block, list-style:, <span>, float, position:, static, fixed
+- discovered outline:, padding:, border:, margin:, (-top, -right, -bottom, -left), box-sizing:, content-box, border-box, display:, block, inline, flex, inline-flex, inline-block, list-style:, '<span>', float, position:, static, fixed
 
 July 4, 2026:
 - finished 100% of CSS Foundations.
 - finished 60% of Flexbox.
 - worked and finished 'Project: Recipes 2.0' for 4 hours.
-- discovered border-radius:, text-decoration:, max-width:, /* comment */, flex:, flex-grow:, flex-shrink:, flex-basis:, flex-direction:, -reverse
+- discovered border-radius:, text-decoration:, max-width:, /* comment */, flex:, flex-grow:, flex-shrink:, flex-basis:, flex-direction:, (-reverse), justify-content: space-between, align-items:, gap:
