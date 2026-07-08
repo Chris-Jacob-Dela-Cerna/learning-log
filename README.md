@@ -439,7 +439,7 @@ June 28, 2026:
 
 June 29, 2026:
 - finished 80% of HTML Foundations.
-- discovered elements, tags, <>, </>, <'p'>, void elements, index.html, <'!DOCTYPE html'>, lang=, <'head'>, <'meta'>, <'title'>, <'body'>, <'h1'>-<'h6'>, <'strong'>, <'em'>, <'!-- comment --'>, <'ul'>, <'li'>, <'ol'>, <'a'>, href=, target=, _blank, _self, rel=, noopener, noreferrer, <'img'>, src=, alt=, height=, width=
+- discovered .html, elements, tags, <>, </>, <'p'>, void elements, index.html, <'!DOCTYPE html'>, lang=, <'head'>, <'meta'>, <'title'>, <'body'>, <'h1'>-<'h6'>, <'strong'>, <'em'>, <'!-- comment --'>, <'ul'>, <'li'>, <'ol'>, <'a'>, href=, target=, _blank, _self, rel=, noopener, noreferrer, <'img'>, src=, alt=, height=, width=
 
 June 30, 2026:
 - finished 100% of HTML Foundations.
@@ -449,7 +449,7 @@ June 30, 2026:
 
 July 1, 2026:
 - finished 40% of CSS Foundations.
-- discovered *{}, <'div'>, class=, .class{}, id=, #id{}, grouping selector, chaining selector, descendant combinator, color:, background-color:, font-family:, font-size:, font-weight:, text-align:, height:, width:, <'link'>, stylesheet, <'style'>, style=, <'button'>, !important, pseudo-class
+- discovered .css, *{}, <'div'>, class=, .class{}, id=, #id{}, grouping selector, chaining selector, descendant combinator, color:, background-color:, font-family:, font-size:, font-weight:, text-align:, height:, width:, <'link'>, stylesheet, <'style'>, style=, <'button'>, !important, pseudo-class
 
 July 2, 2026:
 - finished 60% of CSS Foundations.
@@ -467,5 +467,20 @@ July 4, 2026:
 - discovered border-radius:, text-decoration:, min-width:, max-width:, /* comment */, flex:, flex-grow:, flex-shrink:, flex-basis:, flex-direction:, column, row, (-reverse)
 
 July 5, 2026:
-- finished % of Flexbox.
+- finished 75% of Flexbox.
 - discovered justify-content:, space-between, space-around, space-evenly, align-items:, flex-start, flex-end, center, stretch, baseline, align-self:, gap:, flex-wrap:, wrap, align-content:, flex-flow:, order:
+
+July 6, 2026:
+- finished 80% of Flexbox.
+- working on 'Project: Landing Page' for 3.5 hours.
+- discovered cursor:, pointer, box-shadow:, <'header'>, <'footer'>, clamp: rem, vh, vw
+
+July 7, 2026:
+- working on 'Project: Landing Page' for 6.5 hours more.
+- discovered onclick=, :hover
+
+July 8, 2026:
+- finished 100% of Flexbox.
+- worked and finished 'Project: Landing Page' for 30 minutes more.
+- finished 14% of Javascipt Basics.
+- discovered .js, console, .log(), let, const, var, // comment, typeof, .toFixed(), Number(), postfix(++/--)prefix, ===, !==, alert(), +non-Number, NaN, DataTypes=(Number, BigInt, String, Boolean, null, undefined, object, symbol), `${}``, str.length(), str[], str.slice(), str.toUpperCase(), str.toLowerCase(), str.trim(), str.padStart(), str.padEnd(), str.repeat(), str.replace(), str.split()
