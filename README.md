@@ -483,4 +483,8 @@ July 8, 2026:
 - finished 100% of Flexbox.
 - worked and finished 'Project: Landing Page' for 30 minutes more.
 - finished 14% of Javascipt Basics.
-- discovered .js, console, .log(), let, const, var, // comment, typeof, .toFixed(), Number(), postfix(++/--)prefix, ===, !==, alert(), +non-Number, NaN, DataTypes=(Number, BigInt, String, Boolean, null, undefined, object, symbol), `${}``, str.length(), str[], str.slice(), str.toUpperCase(), str.toLowerCase(), str.trim(), str.padStart(), str.padEnd(), str.repeat(), str.replace(), str.split()
+- discovered .js, console, .log(), let, const, var, // comment, typeof, .toFixed(), Number(), postfix(++/--)prefix, ===, !==, alert(), +non-Number, NaN, DataTypes=(Number, BigInt, String, Boolean, null, undefined, object, symbol), `${}``, str.length(), str[], str.slice(), str.toUpperCase(), str.toLowerCase(), str.trim(), str.padStart(), str.padEnd(), str.repeat(), str.replace(), str.split(), str.join()
+
+July 9, 2026:
+- finished 33% of Javascipt Basics.
+- discovered if(){} or ?, else if(){}, else{} or :, &&, ||, !, !!, switch, case, default, break, function, return, anonymous functions, () =>
