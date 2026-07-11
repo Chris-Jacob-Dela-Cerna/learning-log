@@ -487,7 +487,13 @@ July 8, 2026:
 
 July 9, 2026:
 - finished 33% of Javascipt Basics.
-- discovered if(){} or ?, else if(){}, else{} or :, &&, ||, !, !!, switch, case, default, break, function, return, anonymous functions, () =>
+- discovered if or ?, else if, else or :, &&, ||, !, !!, switch, case, default, break, function, return, anonymous functions, () =>
 
 July 10, 2026:
 - finished 36% of Javascipt Basics.
+- discovered prompt(), parseInt()
+
+July 11, 2026:
+- finished 46% of Javascript Basics.
+- worked and finished 'Project: Rock Paper Scissors' for 3 hours.
+- discovered for, try, catch, Math.random(), Math.floor()
