@@ -477,13 +477,13 @@ July 6, 2026:
 
 July 7, 2026:
 - working on 'Project: Landing Page' for 6.5 hours more.
-- discovered onclick=, :hover
+- discovered :hover
 
 July 8, 2026:
 - finished 100% of Flexbox.
 - worked and finished 'Project: Landing Page' for 30 minutes more.
 - finished 14% of Javascipt Basics.
-- discovered .js, console, .log(), let, const, var, // comment, typeof, .toFixed(), Number(), postfix(++/--)prefix, ===, !==, alert(), +non-Number, NaN, DataTypes=(Number, BigInt, String, Boolean, null, undefined, object, symbol), `${}``, str.length(), str[], str.slice(), str.toUpperCase(), str.toLowerCase(), str.trim(), str.padStart(), str.padEnd(), str.repeat(), str.replace(), str.split(), str.join()
+- discovered .js, console, .log(), let, const, var, // comment, typeof, Number(), postfix(++/--)prefix, ===, !==, alert(), +non-Number, DataTypes=(Number, BigInt, String, Boolean, null, undefined, object, symbol), `${}``, str.length, str[], str.slice(), str.toUpperCase(), str.toLowerCase(), str.trim(), str.padStart(), str.padEnd(), str.repeat(), str.replace(), str.split(), str.join()
 
 July 9, 2026:
 - finished 33% of Javascipt Basics.
@@ -491,9 +491,17 @@ July 9, 2026:
 
 July 10, 2026:
 - finished 36% of Javascipt Basics.
-- discovered prompt(), parseInt()
+- discovered prompt()
 
 July 11, 2026:
-- finished 46% of Javascript Basics.
+- finished 53% of Javascript Basics.
 - worked and finished 'Project: Rock Paper Scissors' for 3 hours.
-- discovered for, try, catch, Math.random(), Math.floor()
+- discovered for, Math.random(), Math.floor()
+
+July 12, 2026:
+- finished 64% of Javascript Basics.
+- discovered of, .map(), .filter((item, i)), break <'labelName'>, array, arr.push(), arr[], arr.at(), arr.pop(), arr.shift(), arr.unshift(), arr.length, arr.splice(), arr.slice(), arr.concat(), arr.sort((thisItem, otherItem)), arr.reverse(), arr.join(), arr.isArray(), arr.reduce(fn(total, current)), arr.includes(), arr.indexOf()
+
+July 13, 2026:
+- finished 68% of Javascript Basics.
+- discovered ...spreadOperator, arr.forEach(), Number.isInteger(), Math.round(), arr.from(), .firstElementChild, .lastElementChild, element.querySelector(), element.querySelectorAll(), document.createElement(tagName, [options]), parentNode.appendChild(childNode), parentNode.insertBefore(newNode, referenceNode), parentNode.removeChild(child), .style[] =, .setAttribute(attribute, value), .getAttribute(), .removeAttribute(), .classList.add(), .classList.remove(), .classList.toggle(), .textContent =, defer
