@@ -483,11 +483,11 @@ July 8, 2026:
 - finished 100% of Flexbox.
 - worked and finished 'Project: Landing Page' for 30 minutes more.
 - finished 14% of Javascipt Basics.
-- discovered .js, console, .log(), let, const, var, // comment, typeof, Number(), postfix(++/--)prefix, ===, !==, alert(), +non-Number, DataTypes=(Number, BigInt, String, Boolean, null, undefined, object, symbol), `${}``, str.length, str[], str.slice(), str.toUpperCase(), str.toLowerCase(), str.trim(), str.padStart(), str.padEnd(), str.repeat(), str.replace(), str.split(), str.join()
+- discovered .js, console, .log(), let, const, var, // comment, postfix(++/--)prefix, typeof, ===, !==, alert(), +non-Number, DataTypes=(Number, BigInt, String, Boolean, null, undefined, object, symbol), `${}``, str.length, str[], str.slice(), str.toUpperCase(), str.toLowerCase(), str.trim(), str.pad(), str.repeat(), str.replace(), str.split()
 
 July 9, 2026:
 - finished 33% of Javascipt Basics.
-- discovered if or ?, else if, else or :, &&, ||, !, !!, switch, case, default, break, function, return, anonymous functions, () =>
+- discovered if or ?, else if, else or :, &&, ||, !, !!, switch, case, default, break, function, return, anonymous function, () =>
 
 July 10, 2026:
 - finished 36% of Javascipt Basics.
@@ -495,13 +495,17 @@ July 10, 2026:
 
 July 11, 2026:
 - finished 53% of Javascript Basics.
-- worked and finished 'Project: Rock Paper Scissors' for 3 hours.
+- worked and finished 'Project: Rock Paper Scissors 1.0' for 3 hours.
 - discovered for, Math.random(), Math.floor()
 
 July 12, 2026:
 - finished 64% of Javascript Basics.
-- discovered of, .map(), .filter((item, i)), break <'labelName'>, array, arr.push(), arr[], arr.at(), arr.pop(), arr.shift(), arr.unshift(), arr.length, arr.splice(), arr.slice(), arr.concat(), arr.sort((thisItem, otherItem)), arr.reverse(), arr.join(), arr.isArray(), arr.reduce(fn(total, current)), arr.includes(), arr.indexOf()
+- discovered of, .map(), .filter((item, i)), break <'labelName'>, array, arr.push(), arr.pop(), arr.shift(), arr.unshift(), arr[], arr.at(), arr.length, arr.splice(), arr.slice(), arr.concat(), arr.sort((thisItem, otherItem)), arr.reverse(), arr.join(), Array.isArray(), arr.reduce(fn(total, current)), arr.includes(), arr.indexOf()
 
 July 13, 2026:
 - finished 68% of Javascript Basics.
-- discovered ...spreadOperator, arr.forEach(), Number.isInteger(), Math.round(), arr.from(), .firstElementChild, .lastElementChild, element.querySelector(), element.querySelectorAll(), document.createElement(tagName, [options]), parentNode.appendChild(childNode), parentNode.insertBefore(newNode, referenceNode), parentNode.removeChild(child), .style[] =, .setAttribute(attribute, value), .getAttribute(), .removeAttribute(), .classList.add(), .classList.remove(), .classList.toggle(), .textContent =, defer
+- discovered ...spreadOperator, arr.forEach((item, i)), Number.isInteger(), Math.round(), Array.from(), .firstElementChild, .lastElementChild, element.querySelector(), element.querySelectorAll(), document.createElement(tagName, [options]), parentNode.appendChild(childNode), parentNode.insertBefore(newNode, referenceNode), parentNode.removeChild(child), .style[] =, .setAttribute(attribute, value), .getAttribute(), .removeAttribute(), .classList.add(), .classList.remove(), .classList.toggle(), .textContent =, defer
+
+July 14, 2026:
+- finished 71% of Javascript Basics.
+- discovered onclick="", .onclick =, .addEventListener(), Events=(click, dblclick, mousedown, mouseup, mousemove, mouseover, mouseout, mouseenter, mouseleave, wheel, keydown, keyup, keypress), event.preventDefault(), ev.stopPropagation(), ev.button, ev.shiftKey, ev.ctrlKey, ev.altKey, ev.metaKey, ev.screenX, ev.screenY, ev.clientX, ev.clientY, ev.key, ev.code, document.getElementById(), eventbubbling, event delegation, ev.target, .id, new, Event(type, [options]), bubbles:, cancelable:, .dispatchEvent(), ev.isTrusted, UIEvent(), MouseEvent(), TouchEvent(), FocusEvent(), KeyboardEvent(), CustomEvent(), detail:
