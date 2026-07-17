@@ -487,7 +487,7 @@ July 8, 2026:
 
 July 9, 2026:
 - finished 33% of Javascipt Basics.
-- discovered if or ?, else if, else or :, &&, ||, !, !!, switch, case, default, break, function, return, anonymous function, () =>
+- discovered if or ?, else if, else or :, &&, ||, !, !!, switch, case, default, break, function, return, anonymousFunction, () =>
 
 July 10, 2026:
 - finished 36% of Javascipt Basics.
@@ -500,12 +500,26 @@ July 11, 2026:
 
 July 12, 2026:
 - finished 64% of Javascript Basics.
-- discovered of, .map(), .filter((item, i)), break <'labelName'>, array, arr.push(), arr.pop(), arr.shift(), arr.unshift(), arr[], arr.at(), arr.length, arr.splice(), arr.slice(), arr.concat(), arr.sort((thisItem, otherItem)), arr.reverse(), arr.join(), Array.isArray(), arr.reduce(fn(total, current)), arr.includes(), arr.indexOf()
+- discovered of, .map(n), .filter((item, i)), break <'labelName'>, array, arr.push(), arr.pop(), arr.shift(), arr.unshift(), arr[], arr.at(), arr.length, arr.splice(), arr.slice(), arr.concat(), arr.sort((thisItem, otherItem)), arr.reverse(), arr.join(), Array.isArray(), arr.reduce((total, current)), arr.includes(), arr.indexOf()
 
 July 13, 2026:
 - finished 68% of Javascript Basics.
 - discovered ...spreadOperator, arr.forEach((item, i)), Number.isInteger(), Math.round(), Array.from(), .firstElementChild, .lastElementChild, element.querySelector(), element.querySelectorAll(), document.createElement(tagName, [options]), parentNode.appendChild(childNode), parentNode.insertBefore(newNode, referenceNode), parentNode.removeChild(child), .style[] =, .setAttribute(attribute, value), .getAttribute(), .removeAttribute(), .classList.add(), .classList.remove(), .classList.toggle(), .textContent =, defer
 
 July 14, 2026:
-- finished 71% of Javascript Basics.
-- discovered onclick="", .onclick =, .addEventListener(), Events=(click, dblclick, mousedown, mouseup, mousemove, mouseover, mouseout, mouseenter, mouseleave, wheel, keydown, keyup, keypress), event.preventDefault(), ev.stopPropagation(), ev.button, ev.shiftKey, ev.ctrlKey, ev.altKey, ev.metaKey, ev.screenX, ev.screenY, ev.clientX, ev.clientY, ev.key, ev.code, document.getElementById(), eventbubbling, event delegation, ev.target, .id, new, Event(type, [options]), bubbles:, cancelable:, .dispatchEvent(), ev.isTrusted, UIEvent(), MouseEvent(), TouchEvent(), FocusEvent(), KeyboardEvent(), CustomEvent(), detail:
+- finished 70% of Javascript Basics.
+- discovered onclick="", .onclick =, .addEventListener(), Events=(click, dblclick, mousedown, mouseup, mousemove, mouseover, mouseout, mouseenter, mouseleave, wheel, keydown, keyup, keypress), event.preventDefault(), ev.stopPropagation(), ev.button, ev.shiftKey, ev.ctrlKey, ev.altKey, ev.metaKey, ev.screenX, ev.screenY, ev.clientX, ev.clientY, ev.key, ev.code, document.getElementById(), eventBubbling, eventDelegation, ev.target, .id, new, Event(type, [options]), bubbles:, cancelable:, .dispatchEvent(), ev.isTrusted, UIEvent(), MouseEvent(), TouchEvent(), FocusEvent(), KeyboardEvent(), CustomEvent(), detail:
+
+July 15, 2026:
+- finished 72% of Javascript Basics.
+- discovered callbackFunction, <'section'>, .href, document.createTextNode(), Element.remove()
+
+July 16, 2026:
+- finished 75% of Javascript Basics.
+- working on 'Project: Rock Paper Scissors 2.0' for 0.5 hours.
+- discovered <'form'>, <'label'>, for=,  <'input'>, .value, name=, type=, .parentElement, .focus(), git branch, git checkout (-b), git merge
+
+July 17, 2026:
+- finished 78% of Javascript Basics.
+- working on 'Project: Rock Paper Scissors 2.0' for 5.5 hours more.
+- discovered .tagName
