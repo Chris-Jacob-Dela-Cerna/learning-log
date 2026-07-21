@@ -508,7 +508,7 @@ July 13, 2026:
 
 July 14, 2026:
 - finished 70% of Javascript Basics.
-- discovered onclick="", .onclick =, .addEventListener(), Events=(click, dblclick, mousedown, mouseup, mousemove, mouseover, mouseout, mouseenter, mouseleave, wheel, keydown, keyup, keypress), event.preventDefault(), ev.stopPropagation(), ev.button, ev.shiftKey, ev.ctrlKey, ev.altKey, ev.metaKey, ev.screenX, ev.screenY, ev.clientX, ev.clientY, ev.key, ev.code, document.getElementById(), eventBubbling, eventDelegation, ev.target, .id, new, Event(type, [options]), bubbles:, cancelable:, .dispatchEvent(), ev.isTrusted, UIEvent(), MouseEvent(), TouchEvent(), FocusEvent(), KeyboardEvent(), CustomEvent(), detail:
+- discovered onclick="", .onclick =, .addEventListener(), Events=(click, dblclick, mousedown, mouseup, mousemove, mouseover, mouseout, mouseenter, mouseleave, wheel, keydown, keyup, keypress), event.preventDefault(), ev.stopPropagation(), ev.button, ev.shiftKey, ev.ctrlKey, ev.altKey, ev.metaKey, ev.screenX, ev.screenY, ev.clientX, ev.clientY, ev.key, ev.code, element.getElementById(), eventBubbling, eventDelegation, ev.target, .id, new, Event(type, [options]), bubbles:, cancelable:, .dispatchEvent(), ev.isTrusted, UIEvent(), MouseEvent(), TouchEvent(), FocusEvent(), KeyboardEvent(), CustomEvent(), detail:
 
 July 15, 2026:
 - finished 72% of Javascript Basics.
@@ -523,3 +523,25 @@ July 17, 2026:
 - finished 78% of Javascript Basics.
 - working on 'Project: Rock Paper Scissors 2.0' for 5.5 hours more.
 - discovered .tagName
+
+July 18, 2026:
+- finished 81% of Javascript Basics.
+- worked and finished 'Project: Rock Paper Scissors 2.0' for 1 hour more.
+- wrote a draft for my next Odin Project.
+- working on 'Project: Etch-a-Sketch' for 3.5 hours.
+- dicovered location.reload(), aspect-ratio:
+
+July 19, 2026:
+- finished 82% of Javascript Basics.
+- working on 'Project: Etch-a-Sketch' for 4 hours more.
+- discovered .contains(), box-shadow:, .prepend()
+
+July 20, 2026:
+- finished 83% of Javascript Basics.
+- working on 'Project: Etch-a-Sketch' for 4.5 hours more.
+- discovered value="", placeholder="", pseudo-element, .replaceChildren()
+
+July 21, 2026:
+- finished 84% of Javascript Basics.
+- working on 'Project: Etch-a-Sketch' for 3.5 hours more.
+- discovered pointer-events:, user-select:
