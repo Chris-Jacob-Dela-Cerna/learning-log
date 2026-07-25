@@ -2,7 +2,7 @@ Daily learning log maintained as a structured journal. Each commit represents a 
 
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
-**Current:** Week 15
+**Current:** Week 17
 
 Week 1
 
