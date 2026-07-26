@@ -2,7 +2,7 @@ Daily learning log maintained as a structured journal. Each commit represents a 
 
 # CS Journey — Cloud Architecture Track
 **Started:** March 27, 2026  
-**Current:** Week 15
+**Current:** Week 19
 
 Week 1
 
@@ -489,6 +489,8 @@ July 9, 2026:
 - finished 33% of Javascipt Basics.
 - discovered if or ?, else if, else or :, &&, ||, !, !!, switch, case, default, break, function, return, anonymousFunction, () =>
 
+Week 16
+
 July 10, 2026:
 - finished 36% of Javascipt Basics.
 - discovered prompt()
@@ -500,7 +502,7 @@ July 11, 2026:
 
 July 12, 2026:
 - finished 64% of Javascript Basics.
-- discovered of, .map(n), .filter((item, i)), break <'labelName'>, array, arr.push(), arr.pop(), arr.shift(), arr.unshift(), arr[], arr.at(), arr.length, arr.splice(), arr.slice(), arr.concat(), arr.sort((thisItem, otherItem)), arr.reverse(), arr.join(), Array.isArray(), arr.reduce((total, current)), arr.includes(), arr.indexOf()
+- discovered of, .map(n), .filter((item, i)), break <'labelName'>, array, arr.push(), arr.pop(), arr.shift(), arr.unshift(), arr[], arr.at(), arr.length, arr.splice(), arr.slice(), arr.concat(), arr.sort((thisItem, otherItem)), arr.reverse(), arr.join(), Array.isArray(), arr.reduce((total, current) return, initial), arr.includes(), arr.indexOf()
 
 July 13, 2026:
 - finished 68% of Javascript Basics.
@@ -518,6 +520,8 @@ July 16, 2026:
 - finished 75% of Javascript Basics.
 - working on 'Project: Rock Paper Scissors 2.0' for 0.5 hours.
 - discovered <'form'>, <'label'>, for=,  <'input'>, .value, name=, type=, .parentElement, .focus(), git branch, git checkout (-b), git merge
+
+Week 17
 
 July 17, 2026:
 - finished 78% of Javascript Basics.
@@ -537,11 +541,33 @@ July 19, 2026:
 - discovered .contains(), box-shadow:, .prepend()
 
 July 20, 2026:
-- finished 83% of Javascript Basics.
+- finished 84% of Javascript Basics.
 - working on 'Project: Etch-a-Sketch' for 4.5 hours more.
 - discovered value="", placeholder="", pseudo-element, .replaceChildren()
 
 July 21, 2026:
-- finished 84% of Javascript Basics.
-- working on 'Project: Etch-a-Sketch' for 3.5 hours more.
-- discovered pointer-events:, user-select:
+- finished 86% of Javascript Basics.
+- working on 'Project: Etch-a-Sketch' for 5.5 hours more.
+- discovered pointer-events:, user-select:, getComputedStyle(), .getPropertyValue()
+
+July 22, 2026:
+- finished 87% of Javascript Basics.
+- worked and finished 'Project: Etch-a-Sketch' for 0.5 hours more.
+
+Week 18
+
+July 23, 2026:
+- finished 88% of Javascript basics.
+- discovered Object(), object.property, delete, object["property"], [computedProperty]:, in, for in, object literal
+
+July 24, 2026:
+- finished 91% of Javascript Basics.
+- discovered this
+
+July 25, 2026:
+- finished 93% of Javascript Basics.
+- discovered Array.some(), Array.every(), Array.find(), Array.findIndex()
+
+July 26, 2026:
+- finished % of Javascript Basics.
+- discovered 
