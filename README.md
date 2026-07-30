@@ -569,5 +569,18 @@ July 25, 2026:
 - discovered Array.some(), Array.every(), Array.find(), Array.findIndex()
 
 July 26, 2026:
-- finished % of Javascript Basics.
-- discovered 
+- wrote a draft for my next Odin Project.
+- working on 'Project: Calculator' for 0.5 hours.
+
+July 27, 2026:
+- working on 'Project: Calculator' for 0.5 hours.
+
+July 28, 2026:
+- working on 'Project: Calculator' for 5 hours.
+- discovered :active, caret-color:, caret-shape:, event.setSelectionRange(), target.scrollLeft, target.scrollWidth
+
+July 28, 2026:
+- working on 'Project: Calculator' for 1.5 hours.
+
+July 29, 2026:
+- working on 'Project: Calculator' for 4 hours.
