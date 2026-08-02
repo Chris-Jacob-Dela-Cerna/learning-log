@@ -579,8 +579,20 @@ July 28, 2026:
 - working on 'Project: Calculator' for 5 hours.
 - discovered :active, caret-color:, caret-shape:, event.setSelectionRange(), target.scrollLeft, target.scrollWidth
 
-July 28, 2026:
+July 29, 2026:
 - working on 'Project: Calculator' for 1.5 hours.
 
-July 29, 2026:
+Week 19
+
+July 30, 2026:
 - working on 'Project: Calculator' for 4 hours.
+
+July 31, 2026:
+- working on 'Project: Calculator' for 3 hours.
+
+August 1, 2026:
+- working on 'Project: Calculator' for 0.5 hours.
+
+August 2, 2026:
+- working on 'Project: Calculator' for 2 hours.
+- discovered &:, overflow-x:, overflow-y:, auto, scroll, hidden, scroll-width:, scroll-color:, target.scrollTop, target.scrollHeight, white-space:, nowrap, text-overflow:, ellipsis
