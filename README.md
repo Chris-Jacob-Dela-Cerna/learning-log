@@ -573,26 +573,36 @@ July 26, 2026:
 - working on 'Project: Calculator' for 0.5 hours.
 
 July 27, 2026:
-- working on 'Project: Calculator' for 0.5 hours.
+- working on 'Project: Calculator' for 0.5 hours more.
 
 July 28, 2026:
-- working on 'Project: Calculator' for 5 hours.
+- finished 94% of Javascript Basics.
+- working on 'Project: Calculator' for 5 hours more.
 - discovered :active, caret-color:, caret-shape:, event.setSelectionRange(), target.scrollLeft, target.scrollWidth
 
 July 29, 2026:
-- working on 'Project: Calculator' for 1.5 hours.
+- working on 'Project: Calculator' for 1.5 hours more.
 
 Week 19
 
 July 30, 2026:
-- working on 'Project: Calculator' for 4 hours.
+- finished 96% of Javascript Basics.
+- working on 'Project: Calculator' for 4 hours more.
 
 July 31, 2026:
-- working on 'Project: Calculator' for 3 hours.
+- working on 'Project: Calculator' for 3 hours more.
 
 August 1, 2026:
-- working on 'Project: Calculator' for 0.5 hours.
+- finished 97% of Javascript Basics.
+- working on 'Project: Calculator' for 0.5 hours more.
 
 August 2, 2026:
-- working on 'Project: Calculator' for 2 hours.
+- finished 98% of Javascript Basics.
+- working on 'Project: Calculator' for 2 hours more.
 - discovered &:, overflow-x:, overflow-y:, auto, scroll, hidden, scroll-width:, scroll-color:, target.scrollTop, target.scrollHeight, white-space:, nowrap, text-overflow:, ellipsis
+
+August 3, 2026:
+- finished 100% of Javascript Basics.
+- finished The Odin Project - Foundations.
+- worked and finished 'Project: Calculator' for 3.5 hours more.
+- discovered .classList.contains(), git commit --amend.
