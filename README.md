@@ -606,3 +606,8 @@ August 3, 2026:
 - finished The Odin Project - Foundations.
 - worked and finished 'Project: Calculator' for 3.5 hours more.
 - discovered .classList.contains(), git commit --amend.
+
+August 4, 2026:
+- started The Odin Project - NodeJS.
+- started Intermediate HTML and CSS.
+- finished 33% of Intermediate HTML Concepts.
