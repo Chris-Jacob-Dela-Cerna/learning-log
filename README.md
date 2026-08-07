@@ -473,7 +473,7 @@ July 5, 2026:
 July 6, 2026:
 - finished 80% of Flexbox.
 - working on 'Project: Landing Page' for 3.5 hours.
-- discovered cursor:, pointer, box-shadow:, <'header'>, <'footer'>, clamp: rem, vh, vw
+- discovered cursor:, pointer, box-shadow:, <'header'>, <'footer'>, vh, vw
 
 July 7, 2026:
 - working on 'Project: Landing Page' for 6.5 hours more.
@@ -611,3 +611,17 @@ August 4, 2026:
 - started The Odin Project - NodeJS.
 - started Intermediate HTML and CSS.
 - finished 33% of Intermediate HTML Concepts.
+
+August 5, 2026:
+- finished 90% of Intermediate HTML Concepts.
+- discovered <'svg'>, xmlns=, <'use'>, background-image:, url(), <'circle'>, fill=, r=, cx=, cy=, <'line'>, x1=, y1=, x2=, y2=, stroke=, stroke-width=, <'rect'>, rx=, ry=, <'ellipse'>, <'polygon'>, points="", viewBox="", stroke-dasharray="", stroke-linecap="", <'table'>, <'td'>, <'tr'>, &nbsp;, :nth-element(), <'th'>, colspan="", rowspan="", <'colgroup'>, <'col'>, span="", <'thead'>, <'tbody'>, <'tfoot'>, <'caption'>, scope="", headers=""
+
+August 6, 2026:
+- finished 100% of Intermediate HTML Concepts.
+- finished 10% of Intermediate CSS Concepts.
+- discovered normalize.css, modern-normalize.css
+
+August 7, 2026:
+- finished 15% of Intermediate CSS Concepts.
+- discovered (CSS): em, rem, opacity:, background-image:, background-repeat:, background-position:, ::before, ::after, content:, calc()
+- discovered (Java): public, class, static, void, main(), args, String, int, System, System.out, .out.print(), .out.println(), import, java.util, .util.Scanner, new, System.in, Scanner.nextLine(), Scanner.nextInt(), if / else if / else, for (initialization; condition; update) {}
