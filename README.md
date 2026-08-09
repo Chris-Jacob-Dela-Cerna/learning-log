@@ -623,5 +623,13 @@ August 6, 2026:
 
 August 7, 2026:
 - finished 15% of Intermediate CSS Concepts.
-- discovered (CSS): em, rem, opacity:, background-image:, background-repeat:, background-position:, ::before, ::after, content:, calc()
+- discovered (CSS): em, rem, opacity:, background-image:, background-repeat:, background-position:, ::before, ::after, content:
 - discovered (Java): public, class, static, void, main(), args, String, int, System, System.out, .out.print(), .out.println(), import, java.util, .util.Scanner, new, System.in, Scanner.nextLine(), Scanner.nextInt(), if / else if / else, for (initialization; condition; update) {}
+
+August 8, 2026:
+- finished 25% of Intermediate CSS Concepts.
+- discovered (CSS): calc(), vmin, vmax, @import, @font-face, src:,  font-style:, letter-spacing:, line-height:, text-transform:, text-shadow:
+
+August 9, 2026:
+- finished 35% of Intermediate CSS Concepts.
+- discovered (CSS): font-display:, swap, optional, fallback, block, max-inline-size:, ch
