@@ -458,7 +458,7 @@ Week 15
 
 July 3, 2026:
 - finished 80% of CSS Foundations.
-- discovered outline:, padding:, border:, margin:, (-top, -right, -bottom, -left), box-sizing:, content-box, border-box, display:, block, inline, inline-block, flex, inline-flex, list-style:, <'span'>, position:, static, fixed
+- discovered outline:, padding:, border:, margin:, (-top, -right, -bottom, -left), box-sizing:, content-box, border-box, display:, block, inline, inline-block, flex, inline-flex, list-style:, <'span'>
 
 July 4, 2026:
 - finished 100% of CSS Foundations.
@@ -614,16 +614,16 @@ August 4, 2026:
 
 August 5, 2026:
 - finished 90% of Intermediate HTML Concepts.
-- discovered <'svg'>, xmlns=, <'use'>, background-image:, url(), <'circle'>, fill=, r=, cx=, cy=, <'line'>, x1=, y1=, x2=, y2=, stroke=, stroke-width=, <'rect'>, rx=, ry=, <'ellipse'>, <'polygon'>, points="", viewBox="", stroke-dasharray="", stroke-linecap="", <'table'>, <'td'>, <'tr'>, &nbsp;, :nth-element(), <'th'>, colspan="", rowspan="", <'colgroup'>, <'col'>, span="", <'thead'>, <'tbody'>, <'tfoot'>, <'caption'>, scope="", headers=""
+- discovered (HTMl): <'svg'>, xmlns=,<'use'>, <'circle'>, fill=,r=, cx=, cy=, <'line'>, x1=, y1=, x2=, y2=, stroke=, stroke-width=, <'rect'>, rx=, ry=, <'ellipse'>, <'polygon'>, points="", viewBox="", stroke-dasharray="", stroke-linecap="", <'table'>, <'td'>, <'tr'>, <'th'>, &nbsp;, <'colgroup'>, <'col'>, span="", <'thead'>, <'tbody'>, <'tfoot'>, <'caption'>, colspan="", rowspan="", scope="", headers=""
 
 August 6, 2026:
 - finished 100% of Intermediate HTML Concepts.
 - finished 10% of Intermediate CSS Concepts.
-- discovered normalize.css, modern-normalize.css
+- discovered (CSS): normalize.css, modern-normalize.css
 
 August 7, 2026:
 - finished 15% of Intermediate CSS Concepts.
-- discovered (CSS): em, rem, background-image:, background-repeat:, background-position:, ::before, ::after, content:
+- discovered (CSS): em, rem, url(), background-image:, background-repeat:, background-position:, content:
 - discovered (Java): public, class, static, void, main(), args, String, int, System, System.out, .out.print(), .out.println(), import, java.util, .util.Scanner, new, System.in, Scanner.nextLine(), Scanner.nextInt(), if / else if / else, for (initialization; condition; update) {}
 
 August 8, 2026:
@@ -636,4 +636,8 @@ August 9, 2026:
 
 August 10, 2026:
 - finished 45% of Intermediate CSS Concepts.
-- discovered (CSS): corner-shape:, opacity:, >, +, ~, :focus, :link, :visited, :root, :first-child, :last-child, :empty, :only-child, :nth-child()
+- discovered (CSS): corner-shape:, opacity:, (> / + / ~) selectors, :focus, :link, :visited, :root, :first-child, :last-child, :only-child, :empty
+
+August 11, 2026:
+- finished 60% of Intermediate CSS Concepts.
+- discovered (CSS): :nth-child(), :nth-last-child(), :first-of-type, :last-of-type, :only-of-type, :nth-of-type(), :nth-last-of-type(), :not(selector), [attribute (^= / $= / *= / ~= / |=)] selector, :enabled, :disabled, :checked, :indeterminate, :target, ::marker, ::first-letter, ::first-line, ::selection, ::before, ::after, attr(), position:, static, relative, absolute, fixed, sticky, inset:, top:, right:, bottom:, left:, z-index:
