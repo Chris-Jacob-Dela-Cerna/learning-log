@@ -623,12 +623,12 @@ August 6, 2026:
 
 August 7, 2026:
 - finished 15% of Intermediate CSS Concepts.
-- discovered (CSS): em, rem, url(), background-image:, background-repeat:, background-position:, content:
+- discovered (CSS): em, rem, background-image:, url(), background-repeat:, background-position:, content:
 - discovered (Java): public, class, static, void, main(), args, String, int, System, System.out, .out.print(), .out.println(), import, java.util, .util.Scanner, new, System.in, Scanner.nextLine(), Scanner.nextInt(), if / else if / else, for (initialization; condition; update) {}
 
 August 8, 2026:
 - finished 25% of Intermediate CSS Concepts.
-- discovered (CSS): calc(), vmin, vmax, @import, @font-face, src:,  font-style:, letter-spacing:, line-height:, text-transform:, text-shadow:
+- discovered (CSS): vmin, vmax, @font-face, src:, font-style:, italic, oblique, letter-spacing:, line-height:, text-transform:, text-shadow:
 
 August 9, 2026:
 - finished 35% of Intermediate CSS Concepts.
@@ -636,8 +636,12 @@ August 9, 2026:
 
 August 10, 2026:
 - finished 45% of Intermediate CSS Concepts.
-- discovered (CSS): corner-shape:, opacity:, (> / + / ~) selectors, :focus, :link, :visited, :root, :first-child, :last-child, :only-child, :empty
+- discovered (CSS): corner-shape:, opacity:, (> / + / ~) selectors, :root, :focus, :link, :visited, :first-child, :last-child, :only-child, :empty
 
 August 11, 2026:
 - finished 60% of Intermediate CSS Concepts.
-- discovered (CSS): :nth-child(), :nth-last-child(), :first-of-type, :last-of-type, :only-of-type, :nth-of-type(), :nth-last-of-type(), :not(selector), [attribute (^= / $= / *= / ~= / |=)] selector, :enabled, :disabled, :checked, :indeterminate, :target, ::marker, ::first-letter, ::first-line, ::selection, ::before, ::after, attr(), position:, static, relative, absolute, fixed, sticky, inset:, top:, right:, bottom:, left:, z-index:
+- discovered (CSS): :nth-child(), :nth-last-child(), :first-of-type, :last-of-type, :only-of-type, :nth-of-type(), :nth-last-of-type(), :not(selector), [attribute (^= / $= / *= / ~= / |=)] selector, :enabled, :disabled, :checked, :indeterminate, :target, ::first-letter, ::first-line, ::marker, ::selection, ::before, ::after, position:, static, relative, absolute, fixed, sticky, inset:, top:, right:, bottom:, left:, z-index:
+
+August 12, 2026:
+- finished 80% of Intermediate CSS Concepts.
+- discovered (CSS): attr(), rgb(), linear-gradient(), blur(), brightness(), calc(), min(), max(), clamp(), CSS Variables, --variable, var(variable, fallback), @media (prefers-color-scheme: light / dark) {}, @property {}, syntax:, inherits:, initial-value:
