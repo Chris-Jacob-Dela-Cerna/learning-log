@@ -644,4 +644,8 @@ August 11, 2026:
 
 August 12, 2026:
 - finished 80% of Intermediate CSS Concepts.
-- discovered (CSS): attr(), rgb(), linear-gradient(), blur(), brightness(), calc(), min(), max(), clamp(), CSS Variables, --variable, var(variable, fallback), @media (prefers-color-scheme: light / dark) {}, @property {}, syntax:, inherits:, initial-value:
+- discovered (CSS): attr(), rgb(), linear-gradient(), blur(), brightness(), calc(), min(), max(), clamp(), --variable, var(variable, fallback), @media (prefers-color-scheme: light / dark) {}, @property {}, syntax:, inherits:, initial-value:
+
+August 13, 2026:
+- finished 100% of Intermediate CSS Concepts.
+- discovered (CSS): Frameworks: Tailwind, Preprocessors: Sass
