@@ -614,7 +614,7 @@ August 4, 2026:
 
 August 5, 2026:
 - finished 90% of Intermediate HTML Concepts.
-- discovered (HTMl): <'svg'>, xmlns=,<'use'>, <'circle'>, fill=,r=, cx=, cy=, <'line'>, x1=, y1=, x2=, y2=, stroke=, stroke-width=, <'rect'>, rx=, ry=, <'ellipse'>, <'polygon'>, points="", viewBox="", stroke-dasharray="", stroke-linecap="", <'table'>, <'td'>, <'tr'>, <'th'>, &nbsp;, <'colgroup'>, <'col'>, span="", <'thead'>, <'tbody'>, <'tfoot'>, <'caption'>, colspan="", rowspan="", scope="", headers=""
+- discovered (HTMl): <'svg'>, xmlns=,<'use'>, <'circle'>, fill=, r=, cx=, cy=, <'line'>, x1=, y1=, x2=, y2=, stroke=, stroke-width=, <'rect'>, rx=, ry=, <'ellipse'>, <'polygon'>, points="", viewBox="", stroke-dasharray="", stroke-linecap="", <'table'>, <'td'>, <'tr'>, <'th'>, &nbsp;, <'colgroup'>, <'col'>, span="", <'thead'>, <'tbody'>, <'tfoot'>, <'caption'>, colspan="", rowspan="", scope="", headers=""
 
 August 6, 2026:
 - finished 100% of Intermediate HTML Concepts.
@@ -649,3 +649,6 @@ August 12, 2026:
 August 13, 2026:
 - finished 100% of Intermediate CSS Concepts.
 - discovered (CSS): Frameworks: Tailwind, Preprocessors: Sass
+
+August 14, 2026:
+- practiced SVG on HTML.
