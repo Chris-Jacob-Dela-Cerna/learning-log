@@ -651,4 +651,11 @@ August 13, 2026:
 - discovered (CSS): Frameworks: Tailwind, Preprocessors: Sass
 
 August 14, 2026:
-- practiced SVG on HTML.
+- practiced SVG and CSS Variables on HTML.
+
+August 15, 2026:
+- finished 10% of Forms.
+
+August 16, 2026:
+- finished 20% of Forms.
+- discovered (CSS): <'form'>, action=, method=, <'input'>, type=, (email, password, number, date, radio, checkbox), <'label'>, for=, placeholder=, name=, <'textarea'>, rows=, cols=, <'select'>, <'option'>, selected, value=, <'optgroup'>, label=, checked, <'button'>, (submit, reset, button), <'fieldset'>, <'legend'>
