@@ -654,8 +654,17 @@ August 14, 2026:
 - practiced SVG and CSS Variables on HTML.
 
 August 15, 2026:
-- finished 10% of Forms.
+- finished 6% of Forms.
+- discovered (HTML): <'form'>, action=, method=, <'input'>, type=, input-types:(checkbox, color, date, datetime-local, email, file, hidden, image, month, number, password, radio, range, search, tel, text, time, url, week), name=, <'label'>, for=
 
 August 16, 2026:
-- finished 20% of Forms.
-- discovered (CSS): <'form'>, action=, method=, <'input'>, type=, (email, password, number, date, radio, checkbox), <'label'>, for=, placeholder=, name=, <'textarea'>, rows=, cols=, <'select'>, <'option'>, selected, value=, <'optgroup'>, label=, checked, <'button'>, (submit, reset, button), <'fieldset'>, <'legend'>
+- finished 12% of Forms.
+- discovered (HTML): <'textarea'>, textarea-attr:(cols=, resize=, rows=, wrap=), <'select'>, selected, <'option'>, value=, <'optgroup'>, label=, <'fieldset'>, checked, <'legend'>, <'button'>, button-types:(button, reset, submit)
+
+August 17, 2026:
+- finished 18% of Forms.
+- discovered (CSS): accent-color:, appearance:, none, outline-offset:
+
+August 18, 2026:
+- finished 24% of Forms.
+- discovered (HTML): <'section'>, input-attr:(list=, minlength=, maxlength=, pattern="regEx", placeholder=, spellcheck=, step=, autofocus, disabled, readonly, required), max=, min=, size=, multiple, <'output'>, <'datalist'>, <'meter'>, low=, high=, optimum=, <'progress'>
