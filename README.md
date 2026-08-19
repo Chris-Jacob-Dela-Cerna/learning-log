@@ -510,7 +510,7 @@ July 13, 2026:
 
 July 14, 2026:
 - finished 70% of Javascript Basics.
-- discovered onclick="", .onclick =, .addEventListener(), Events=(click, dblclick, mousedown, mouseup, mousemove, mouseover, mouseout, mouseenter, mouseleave, wheel, keydown, keyup, keypress), event.preventDefault(), ev.stopPropagation(), ev.button, ev.shiftKey, ev.ctrlKey, ev.altKey, ev.metaKey, ev.screenX, ev.screenY, ev.clientX, ev.clientY, ev.key, ev.code, element.getElementById(), eventBubbling, eventDelegation, ev.target, .id, new, Event(type, [options]), bubbles:, cancelable:, .dispatchEvent(), ev.isTrusted, UIEvent(), MouseEvent(), TouchEvent(), FocusEvent(), KeyboardEvent(), CustomEvent(), detail:
+- discovered onclick="", .onclick =, .addEventListener(), Events:(click, dblclick, mousedown, mouseup, mousemove, mouseover, mouseout, mouseenter, mouseleave, wheel, keydown, keyup, keypress), event.preventDefault(), ev.stopPropagation(), ev.button, ev.shiftKey, ev.ctrlKey, ev.altKey, ev.metaKey, ev.screenX, ev.screenY, ev.clientX, ev.clientY, ev.key, ev.code, element.getElementById(), eventBubbling, eventDelegation, ev.target, .id, new, Event(type, [options]), bubbles:, cancelable:, .dispatchEvent(), ev.isTrusted, UIEvent(), MouseEvent(), TouchEvent(), FocusEvent(), KeyboardEvent(), CustomEvent(), detail:
 
 July 15, 2026:
 - finished 72% of Javascript Basics.
@@ -608,7 +608,7 @@ August 3, 2026:
 - discovered .classList.contains(), git commit --amend.
 
 August 4, 2026:
-- started The Odin Project - NodeJS.
+- started The Odin Project - Fullstack JS.
 - started Intermediate HTML and CSS.
 - finished 33% of Intermediate HTML Concepts.
 
@@ -659,12 +659,17 @@ August 15, 2026:
 
 August 16, 2026:
 - finished 12% of Forms.
-- discovered (HTML): <'textarea'>, textarea-attr:(cols=, resize=, rows=, wrap=), <'select'>, selected, <'option'>, value=, <'optgroup'>, label=, <'fieldset'>, checked, <'legend'>, <'button'>, button-types:(button, reset, submit)
+- discovered (HTML): <'textarea'>, textarea-attr:(cols=, resize=, rows=, wrap=), <'select'>, <'option'>, value=, selected, <'optgroup'>, label=, <'fieldset'>, <'legend'>, checked, <'button'>, button-types:(button, reset, submit)
 
 August 17, 2026:
 - finished 18% of Forms.
-- discovered (CSS): accent-color:, appearance:, none, outline-offset:
+- discovered (CSS): accent-color:, outline-offset:
 
 August 18, 2026:
 - finished 24% of Forms.
-- discovered (HTML): <'section'>, input-attr:(list=, minlength=, maxlength=, pattern="regEx", placeholder=, spellcheck=, step=, autofocus, disabled, readonly, required), max=, min=, size=, multiple, <'output'>, <'datalist'>, <'meter'>, low=, high=, optimum=, <'progress'>
+- discovered (HTML): <'section'>, input-attr:(list=, minlength=, maxlength=, pattern="regEx", placeholder=, spellcheck=, autofocus, disabled, readonly, required), max=, min=, size=, step=, multiple, <'output'>, <'datalist'>, <'meter'>, low=, high=, optimum=, <'progress'>
+
+August 19, 2026:
+- finished 28% of Forms.
+- discovered (HTML): <'selectedcontent'>
+- discovered (CSS): appearance:, none, base-select, visibility:, hidden, visible, ::picker(select), ::picker-icon, :open, ::checkmark, order:, @starting-style
