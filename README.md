@@ -599,7 +599,7 @@ August 1, 2026:
 August 2, 2026:
 - finished 98% of Javascript Basics.
 - working on 'Project: Calculator' for 2 hours more.
-- discovered &:, overflow-x:, overflow-y:, auto, scroll, hidden, scroll-width:, scroll-color:, target.scrollTop, target.scrollHeight, white-space:, nowrap, text-overflow:, ellipsis
+- discovered &:, overflow-x:, overflow-y:, auto, scroll, hidden, scrollbar-width:, scrollbar-color:, target.scrollTop, target.scrollHeight, white-space:, nowrap, text-overflow:, ellipsis
 
 August 3, 2026:
 - finished 100% of Javascript Basics.
@@ -636,11 +636,11 @@ August 9, 2026:
 
 August 10, 2026:
 - finished 45% of Intermediate CSS Concepts.
-- discovered (CSS): corner-shape:, opacity:, (> / + / ~) selectors, :root, :focus, :link, :visited, :first-child, :last-child, :only-child, :empty
+- discovered (CSS): corner-shape:, opacity:, (> / + / ~) selectors, :root, :focus, :link, :visited, :target, :first-child, :last-child, :only-child, :empty
 
 August 11, 2026:
 - finished 60% of Intermediate CSS Concepts.
-- discovered (CSS): :nth-child(), :nth-last-child(), :first-of-type, :last-of-type, :only-of-type, :nth-of-type(), :nth-last-of-type(), :not(selector), [attribute (^= / $= / *= / ~= / |=)] selector, :enabled, :disabled, :checked, :indeterminate, :target, ::first-letter, ::first-line, ::marker, ::selection, ::before, ::after, position:, static, relative, absolute, fixed, sticky, inset:, top:, right:, bottom:, left:, z-index:
+- discovered (CSS): :nth-child(), :nth-last-child(), :first-of-type, :last-of-type, :only-of-type, :nth-of-type(), :nth-last-of-type(), :not(selector), [attribute (^= / $= / *= / ~= / |=)] selector, ::first-letter, ::first-line, ::marker, ::selection, ::before, ::after, position:, static, relative, absolute, fixed, sticky, inset:, top:, right:, bottom:, left:, z-index:
 
 August 12, 2026:
 - finished 80% of Intermediate CSS Concepts.
@@ -667,9 +667,23 @@ August 17, 2026:
 
 August 18, 2026:
 - finished 24% of Forms.
-- discovered (HTML): <'section'>, input-attr:(list=, minlength=, maxlength=, pattern="regEx", placeholder=, spellcheck=, autofocus, disabled, readonly, required), max=, min=, size=, step=, multiple, <'output'>, <'datalist'>, <'meter'>, low=, high=, optimum=, <'progress'>
+- discovered (HTML): <'section'>, input-attr:(list=, pattern="regEx", placeholder=, spellcheck=, autofocus, disabled, readonly, required), minlength=, maxlength=, max=, min=, size=, step=, multiple, <'output'>, <'datalist'>, <'meter'>, low=, high=, optimum=, <'progress'>
 
 August 19, 2026:
 - finished 28% of Forms.
 - discovered (HTML): <'selectedcontent'>
 - discovered (CSS): appearance:, none, base-select, visibility:, hidden, visible, ::picker(select), ::picker-icon, :open, ::checkmark, order:, @starting-style
+
+August 20, 2026:
+- finished 30% of Forms.
+- discovered (CSS): :required, :optional, :valid, :invalid, :user-valid, :user-invalid, :in-range, :out-of-range, :enabled, :disabled, :read-only, :read-write, :checked, :indeterminate, :default, :focus:within, :focus-visible, :placeholder-shown, :blank
+
+August 21, 2026:
+- finished 42% of Forms.
+- discovered (CSS): float:, left, right, resize:, none
+
+August 22, 2026:
+- finished 66% of Forms.
+- wrote a draft for my next Odin Project.
+- working on 'Project: Sign-up Form' for 2.5 hours.
+- discovered (CSS): ::placeholder
